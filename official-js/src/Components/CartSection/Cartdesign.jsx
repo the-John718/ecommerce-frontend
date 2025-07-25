@@ -26,7 +26,8 @@ const Cartdesign = ({ item, quantity, onQuantityChange,onRemove }) => {
         w={"25%"}
         mt={"1%"}
         ml={"5px"}
-        style={{
+        style={{   
+          
           overflow: "hidden",
           display: "flex",
           alignItems: "center",
